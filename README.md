@@ -16,6 +16,7 @@ I’m a passionate full-stack developer with a strong drive to learn and innovat
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt='Python'/>
 </p>
 
 
