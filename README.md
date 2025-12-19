@@ -12,6 +12,7 @@ I’m a passionate full-stack developer with a strong drive to learn and innovat
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt='SQL' />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
