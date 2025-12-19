@@ -3,7 +3,8 @@
 
 I’m a passionate full-stack developer with a strong drive to learn and innovate in the ever-evolving world of technology. Thriving in dynamic environments, I enjoy collaborating with others and leveraging my interpersonal skills to deliver impactful solutions. In my free time, I dive deeper into IT advancements, constantly expanding my knowledge and staying ahead of the curve. Technology excites me, and I’m always eager to embrace new challenges and opportunities.
 
-<!-- Frontend -->
+<p align="center">
+  <!-- Frontend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
@@ -25,6 +26,7 @@ I’m a passionate full-stack developer with a strong drive to learn and innovat
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</p> 
 <!-- <p align="center">
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
