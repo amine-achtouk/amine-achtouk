@@ -4,10 +4,11 @@
 I’m a passionate full-stack developer with a strong drive to learn and innovate in the ever-evolving world of technology. Thriving in dynamic environments, I enjoy collaborating with others and leveraging my interpersonal skills to deliver impactful solutions. In my free time, I dive deeper into IT advancements, constantly expanding my knowledge and staying ahead of the curve. Technology excites me, and I’m always eager to embrace new challenges and opportunities.
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/>
