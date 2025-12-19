@@ -8,7 +8,7 @@ I’m a passionate full-stack developer with a strong drive to learn and innovat
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
